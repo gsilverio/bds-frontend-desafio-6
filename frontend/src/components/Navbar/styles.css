@@ -1,0 +1,12 @@
+.main-navbar-container {
+  width: 100%;
+  min-height: 70px;
+  background-color: var(--primary-color);
+  color: var(--main-title-color);
+  font-size: 24px;
+
+  display: flex;
+  align-items: center;
+
+  padding-left: 40px;
+}
